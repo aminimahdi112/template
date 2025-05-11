@@ -61,7 +61,7 @@
               "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2box/3.jpg"
             }
           ]
-        },
+        }
       ]
     },
     {
@@ -90,7 +90,7 @@
             },
             {
               "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server you want. And finally, connect from the bottom of the page.",
-              "faStepText": "مرحله  ۳ : ابتدا سرور مورد نظر را انتخاب کرده. سپس از طریق دکمه پایین صفحه متصل شوید",
+              "faStepText": "مرحله ۳ : ابتدا سرور مورد نظر را انتخاب کرده. سپس از طریق دکمه پایین صفحه متصل شوید.",
               "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2rayng/3.jpg"
             }
           ]
@@ -120,7 +120,7 @@
               "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2box-android/3.jpg"
             }
           ]
-        },
+        }
       ]
     },
     {
@@ -135,10 +135,7 @@
           "description": "A Windows V2Ray client with GUI support.",
           "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
           "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip"
-        },
-      ]
-    },
-   
+        }
       ]
     }
   ]
